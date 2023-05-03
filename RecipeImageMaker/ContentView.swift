@@ -10,6 +10,9 @@ import CoreData
 
 struct ContentView: View {
     @Environment(\.managedObjectContext) private var viewContext
+    var recipeImage = RecipeImage(imageName:"Dan_Dan_Mian_Noodles")
+    var imageView = UIImageView()
+    @State private var showingImage = false
 
     @FetchRequest(
         sortDescriptors: [NSSortDescriptor(keyPath: \Item.timestamp, ascending: true)],
@@ -38,7 +41,18 @@ struct ContentView: View {
                     }
                 }
             }
+            
+            if self.showingImage {
+                if let image = self.recipeImage.image {
+                    Image(uiImage: image)
+                }
+            }
             Text("Select an item")
+            Text("show image here")
+        }.onAppear {
+            self.recipeImage.group.notify(queue: .main) {
+                self.showingImage = true
+            }
         }
     }
 

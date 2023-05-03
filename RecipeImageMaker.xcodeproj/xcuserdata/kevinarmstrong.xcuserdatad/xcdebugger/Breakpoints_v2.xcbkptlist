@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CEF3EFA8-B742-4F82-A4B9-98AD07EDD384"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE380970-6273-417D-A8A6-CA5D3F0F5E39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipeImageMaker/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EE380970-6273-417D-A8A6-CA5D3F0F5E39 - c6535e833294f327"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 () -&gt; () in RecipeImageMaker.ContentView.body.getter : some"
+                  moduleName = "RecipeImageMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinarmstrong/Documents/Software-Projects/RecipeImageMaker/RecipeImageMaker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "EE380970-6273-417D-A8A6-CA5D3F0F5E39 - c6535e833294f327"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 () -&gt; () in RecipeImageMaker.ContentView.body.getter : some"
+                  moduleName = "RecipeImageMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinarmstrong/Documents/Software-Projects/RecipeImageMaker/RecipeImageMaker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0EDE7F1-624F-4C4D-BB81-83ABDAF5EEC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipeImageMaker/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D0EDE7F1-624F-4C4D-BB81-83ABDAF5EEC1 - 2e7f82767c5e9e90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text, Swift.Optional&lt;Swift.Optional&lt;SwiftUI.Image&gt;&gt;, SwiftUI.Text)&gt; in RecipeImageMaker.ContentView.body.getter : some"
+                  moduleName = "RecipeImageMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinarmstrong/Documents/Software-Projects/RecipeImageMaker/RecipeImageMaker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "D0EDE7F1-624F-4C4D-BB81-83ABDAF5EEC1 - 2e7f82767c5e9e90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text, Swift.Optional&lt;Swift.Optional&lt;SwiftUI.Image&gt;&gt;, SwiftUI.Text)&gt; in RecipeImageMaker.ContentView.body.getter : some"
+                  moduleName = "RecipeImageMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinarmstrong/Documents/Software-Projects/RecipeImageMaker/RecipeImageMaker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  uuid = "D0EDE7F1-624F-4C4D-BB81-83ABDAF5EEC1 - 2e7f82767c5e9e90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, Swift.Optional&lt;Swift.Optional&lt;SwiftUI.Image&gt;&gt;, SwiftUI.Text, SwiftUI.Text)&gt; in RecipeImageMaker.ContentView.body.getter : some"
+                  moduleName = "RecipeImageMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinarmstrong/Documents/Software-Projects/RecipeImageMaker/RecipeImageMaker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "900">
+               </Location>
+               <Location
+                  uuid = "D0EDE7F1-624F-4C4D-BB81-83ABDAF5EEC1 - 2e7f82767c5e9e90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, Swift.Optional&lt;Swift.Optional&lt;SwiftUI.Image&gt;&gt;, SwiftUI.Text, SwiftUI.Text)&gt; in RecipeImageMaker.ContentView.body.getter : some"
+                  moduleName = "RecipeImageMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinarmstrong/Documents/Software-Projects/RecipeImageMaker/RecipeImageMaker/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

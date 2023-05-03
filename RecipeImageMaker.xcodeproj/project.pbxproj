@@ -16,6 +16,7 @@
 		C13EA4472A01F14200D50263 /* RecipeImageMakerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13EA4462A01F14200D50263 /* RecipeImageMakerTests.swift */; };
 		C13EA4512A01F14200D50263 /* RecipeImageMakerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13EA4502A01F14200D50263 /* RecipeImageMakerUITests.swift */; };
 		C13EA4532A01F14200D50263 /* RecipeImageMakerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13EA4522A01F14200D50263 /* RecipeImageMakerUITestsLaunchTests.swift */; };
+		C13EA4602A01F16C00D50263 /* RecipeImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13EA45F2A01F16B00D50263 /* RecipeImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C13EA44C2A01F14200D50263 /* RecipeImageMakerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecipeImageMakerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C13EA4502A01F14200D50263 /* RecipeImageMakerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeImageMakerUITests.swift; sourceTree = "<group>"; };
 		C13EA4522A01F14200D50263 /* RecipeImageMakerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeImageMakerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C13EA45F2A01F16B00D50263 /* RecipeImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				C13EA42F2A01F14100D50263 /* RecipeImageMakerApp.swift */,
 				C13EA4312A01F14100D50263 /* ContentView.swift */,
+				C13EA45F2A01F16B00D50263 /* RecipeImage.swift */,
 				C13EA4332A01F14200D50263 /* Assets.xcassets */,
 				C13EA4382A01F14200D50263 /* Persistence.swift */,
 				C13EA43D2A01F14200D50263 /* Info.plist */,
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C13EA43C2A01F14200D50263 /* RecipeImageMaker.xcdatamodeld in Sources */,
+				C13EA4602A01F16C00D50263 /* RecipeImage.swift in Sources */,
 				C13EA4392A01F14200D50263 /* Persistence.swift in Sources */,
 				C13EA4322A01F14100D50263 /* ContentView.swift in Sources */,
 				C13EA4302A01F14100D50263 /* RecipeImageMakerApp.swift in Sources */,
